@@ -1,5 +1,7 @@
 # Virastar (ویراستار)
-Virastar is a Persian text cleaner.
+Virastar is a Persian text cleaner.  
+
+[![Build Status](https://travis-ci.org/octoberfa/virastar.svg?branch=master)](https://travis-ci.org/octoberfa/virastar)  
 
 A php port of [juvee/virastar](https://github.com/juvee/virastar)
 
