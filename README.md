@@ -1,7 +1,12 @@
 # Virastar (ویراستار)
 Virastar is a Persian text cleaner.  
 
-[![Build Status](https://travis-ci.org/octoberfa/virastar.svg?branch=master)](https://travis-ci.org/octoberfa/virastar)  
+[![Latest Stable Version](https://poser.pugx.org/octoberfa/virastar/v/stable)](https://packagist.org/packages/octoberfa/virastar)
+[![Latest Unstable Version](https://poser.pugx.org/octoberfa/virastar/v/unstable)](https://packagist.org/packages/octoberfa/virastar)
+[![Build Status](https://travis-ci.org/octoberfa/virastar.svg?branch=master)](https://travis-ci.org/octoberfa/virastar)
+[![Total Downloads](https://poser.pugx.org/octoberfa/virastar/downloads)](https://packagist.org/packages/octoberfa/virastar)
+[![License](https://poser.pugx.org/octoberfa/virastar/license)](https://packagist.org/packages/octoberfa/virastar)
+[![composer.lock](https://poser.pugx.org/octoberfa/virastar/composerlock)](https://packagist.org/packages/octoberfa/virastar)
 
 A php port of [juvee/virastar](https://github.com/juvee/virastar)
 
