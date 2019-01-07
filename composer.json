@@ -8,6 +8,8 @@
         "email": "sajjad.servatjoo@gmail.com"
     }],
     "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": ">=7.1"
     },
