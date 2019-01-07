@@ -1,0 +1,25 @@
+{
+    "name": "octoberfa/virastar",
+    "description": "Virastar is a Persian text cleaner.",
+    "keywords": ["persian", "iran", "farsi", "virastar", "normalize"],
+    "license": "MIT",
+    "authors": [{
+        "name": "Sajjad Servatjoo",
+        "email": "sajjad.servatjoo@gmail.com"
+    }],
+    "type": "project",
+    "require": {
+        "php": ">=7.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "6.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "OctoberFa\\Virastar\\": "src/"
+        },
+        "files": [
+            "src//Virastar.php"
+        ]
+    }
+}
