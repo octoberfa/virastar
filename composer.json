@@ -7,7 +7,7 @@
         "name": "Sajjad Servatjoo",
         "email": "sajjad.servatjoo@gmail.com"
     }],
-    "type": "project",
+    "type": "library",
     "require": {
         "php": ">=7.1"
     },
