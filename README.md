@@ -23,7 +23,7 @@ echo virastar("فارسي را كمی درست تر می نويسيم");
 // Outputs: "فارسی را کمی درست‌تر می‌نویسیم"
 ```
 
-#### Virastar([text] [,options])
+#### virastar([text] [,options])
 
 ##### text
 Type: `string`
